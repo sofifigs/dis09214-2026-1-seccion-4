@@ -1,6 +1,7 @@
 # sesion-06
 ## apuntes p5
-
+### mis apuntes son los codigos trabajados en clase
+#### dejo el codigo p5
 ``` js
 function setup() {
   createCanvas(400, 400);
