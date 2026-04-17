@@ -8,4 +8,4 @@ este tambien
 pero este otro
 
 
-![texto que explica la imagen](./oruga.jpg)
+![texto que explica la imagen](./oruga.png)
